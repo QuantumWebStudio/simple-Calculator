@@ -8,7 +8,7 @@ export const Numbers = [
   { value: 4 },
   { value: 5 },
   { value: 6 },
-  { value: "x" },
+  { value: "*" },
   { value: 1 },
   { value: 2 },
   { value: 3 },
